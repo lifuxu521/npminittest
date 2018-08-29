@@ -1,7 +1,7 @@
 {
   "name": "npmtestli",
-  "version": "1.0.0",
-  "description": "aaa",
+  "version": "1.0.1",
+  "description": "design by lifuxu",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/lifuxu521/npminittest.git"
   },
   "keywords": [
-    "lifuxu7957997"
+    "javascript"
   ],
   "author": "lifuxu",
   "license": "MIT",
